@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin"
-           fetch="git@github.com:AgoraLab/" />
+           fetch="https://github.com:AgoraLab/" />
   <default revision="master"
            remote="origin"
-           sync-j="1" />
+           sync-j="4" />
 
   <project path="media_sdk3" name="media_sdk3" />
   <project path="media_engine" name="media_engine" />

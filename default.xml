@@ -6,7 +6,7 @@
            remote="origin"
            sync-j="1" />
 
-  <project path="media_sdk3" name="media_sdk3.git" />
-  <project path="media_engine" name="media_engine.git" />
+  <project path="media_sdk3" name="media_sdk3" />
+  <project path="media_engine" name="media_engine" />
 
 </manifest>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin"
-           fetch="git@github.com:magicwhite/agora-project.git" />
+           fetch="git@github.com:agoraLab" />
   <default revision="master"
            remote="origin"
            sync-j="1" />

@@ -4,9 +4,12 @@
            fetch="https://github.com/AgoraLab/" />
   <default revision="master"
            remote="origin"
-           sync-j="1" />
+           sync-j="4" />
 
   <project path="media_sdk3" name="media_sdk3" />
   <project path="media_engine" name="media_engine" />
+  <project path="media_sdk3_private" name="media_sdk3_private" />
+  <project path="video_engine_private" name="video_engine_private" />
+  <project path="audio_engine_private" name="audio_eangine_private" />
 
 </manifest>

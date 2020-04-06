@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote  name="origin"
-      fetch="https://58.211.82.57/scm/sdk/" />
+      fetch="https://58.211.82.57:7990/scm/sdk/" />
   <default revision="arsenal"
            remote="origin"
            sync-j="4" />

@@ -2,7 +2,7 @@
 <manifest>
   <remote  name="origin"
       fetch="https://58.211.82.57/scm/sdk/" />
-  <default revision="master"
+  <default revision="arsenal"
            remote="origin"
            sync-j="4" />
 
